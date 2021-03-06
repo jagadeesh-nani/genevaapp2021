@@ -7,4 +7,5 @@ SAAS
 AWS have REGIONS
 AWS have AZ
 Amazon offers 12 months free
+Virtualisation software
 Virtual machines
