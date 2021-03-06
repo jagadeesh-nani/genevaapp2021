@@ -1,2 +1,3 @@
 aws
 Cloud Computing
+Cloud services offering
