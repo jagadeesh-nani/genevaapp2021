@@ -4,8 +4,4 @@ Cloud services offering
 IAAS
 PAAS
 SAAS
-<<<<<<< HEAD
 AWS have REGIONS
-=======
-AWS have AZ
->>>>>>> refs/remotes/origin/main
