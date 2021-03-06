@@ -1,9 +1,7 @@
 aws
 Cloud Computing
-<<<<<<< HEAD
 Cloud services offering
-=======
 IAAS
 PAAS
 SAAS
->>>>>>> 8bab5aea135654fd94ac109795d5bdac59df5d9c
+AWS have AZ
